@@ -25,7 +25,8 @@
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+          <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=KindofCrazy&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
+
 </p>
 
 <p align="center">
