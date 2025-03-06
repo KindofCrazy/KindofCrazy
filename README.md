@@ -13,7 +13,7 @@
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KindofCrazy&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
