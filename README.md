@@ -9,6 +9,14 @@
 </p>
 
 <p align="center">
+    <!-- https://github.com/badges/shields --> 
+    <a href="https://github.com/KindofCrazy"><img src="https://img.shields.io/badge/GitHub-KindofCrazy-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://wakatime.com/yk0329"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
+    <a href="https://KindofCrazy.github.io/" title="Look"><img src="https://img.shields.io/badge/HomePage-blue?logo=blogger"></a>
+    <a href="https://github.com/KindofCrazy"><img src="https://komarev.com/ghpvc/?username=KindofCrazy&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+</p>
+
+<p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=KindofCrazy&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
