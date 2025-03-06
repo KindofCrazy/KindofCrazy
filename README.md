@@ -21,7 +21,7 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KindofCrazy&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KindofCrazy&theme=github-compact&hide_border=true&area=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KindofCrazy&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
