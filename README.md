@@ -7,18 +7,24 @@
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=KindofCrazy&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img width="400" src="https://streak-stats.demolab.com?user=KindofCrazy2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
+    <!-- <img width="400" src="https://streak-stats.demolab.com?user=KindofCrazy&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-KindofCrazy2022.vercel.app?user=KindofCrazy2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+    <img width="400" src="https://github-readme-streak-stats-KindofCrazy.vercel.app?user=KindofCrazy&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
+
+
+
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KindofCrazy&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
+
+
+
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=KindofCrazy2022&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=KindofCrazy&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
@@ -26,12 +32,12 @@
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/KindofCrazy2022"><img src="https://img.shields.io/badge/GitHub-KindofCrazy2022-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/KindofCrazy2022"><img src="https://img.shields.io/badge/Gitee-KindofCrazy2022-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://github.com/KindofCrazy"><img src="https://img.shields.io/badge/GitHub-KindofCrazy-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://gitee.com/KindofCrazy"><img src="https://img.shields.io/badge/Gitee-KindofCrazy-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
     <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <a href="https://wakatime.com/@KindofCrazy2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
+    <a href="https://wakatime.com/@KindofCrazy"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/KindofCrazy2022"><img src="https://komarev.com/ghpvc/?username=KindofCrazy2022&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+    <a href="https://github.com/KindofCrazy"><img src="https://komarev.com/ghpvc/?username=KindofCrazy&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
