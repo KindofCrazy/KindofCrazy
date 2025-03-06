@@ -19,11 +19,6 @@
 </p>
 
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=KindofCrazy&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<img width="400" src="https://streak-stats.demolab.com?user=KindofCrazy&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
- />
-<br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KindofCrazy&theme=github-compact&hide_border=true&area=true">
 <br/>
