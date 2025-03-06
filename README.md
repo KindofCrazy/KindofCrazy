@@ -10,7 +10,7 @@
 
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://KindofCrazy.github.io/" title="Look"><img src="https://img.shields.io/badge/HomePage-blue?logo=blogger, alt="Homepage" title="Homepage"></a>
+    <a href="https://KindofCrazy.github.io/"><img src="https://img.shields.io/badge/HomePage-blue?logo=blogger, alt="Homepage" title="Homepage"></a>
     <a href="https://wakatime.com/yk0329"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
     <a href="https://github.com/KindofCrazy"><img src="https://komarev.com/ghpvc/?username=KindofCrazy&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
