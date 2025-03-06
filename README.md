@@ -7,7 +7,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=KindofCrazy&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="[https://streak-stats.demolab.com?user=KindofCrazy&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true](https://streak-stats.demolab.com?user=KindofCrazy)" /> 
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=KindofCrazy" /> 
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KindofCrazy&theme=github-compact&hide_border=true&area=true">
