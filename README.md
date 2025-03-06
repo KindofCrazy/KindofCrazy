@@ -2,6 +2,8 @@
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" alt="Hello World" title="Hello World"/>
 </p>
+
+
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
@@ -19,7 +21,7 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KindofCrazy&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 
-
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KindofCrazy&theme=github-compact&hide_border=true&area=true" />
 
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
