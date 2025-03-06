@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-    <!-- https://github.com/badges/shields --> 
-    <a href="https://KindofCrazy.github.io/"><img src="https://img.shields.io/badge/HomePage-blue?logo=blogger, alt="Homepage" title="Homepage"></a>
+    <!--     <a href="https://KindofCrazy.github.io/"><img src="https://img.shields.io/badge/HomePage-blue?logo=blogger, alt="Homepage" title="Homepage"></a> -->
     <a href="https://wakatime.com/yk0329"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
     <a href="https://github.com/KindofCrazy"><img src="https://komarev.com/ghpvc/?username=KindofCrazy&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
@@ -22,7 +21,8 @@
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=KindofCrazy&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=KindofCrazy&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=KindofCrazy&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20
+px;"/>
 <
 </p>
 
