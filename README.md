@@ -15,21 +15,6 @@
 </p>
 
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="350" src="https://github-readme-stats.vercel.app/api?username=KindofCrazy&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img width="300" src="https://streak-stats.demolab.com?user=KindofCrazy&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
-    <!-- self-host in Vercel -->
-      <img width="350" src="https://github-readme-streak-stats-seven-azure.vercel.app?user=KindofCrazy&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20
-px;"/>
-<
-</p>
-
-<p align="center">
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KindofCrazy&theme=github-compact&hide_border=true&area=true">
-<br/>
  <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yk0329&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
  <!-- https://github.com/anuraghazra/github-readme-stats -->
